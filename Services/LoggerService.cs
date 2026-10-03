@@ -5,8 +5,8 @@ using System.Net.NetworkInformation;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Channels;
-using Zen.Logging.Extensions;
-using Zen.Logging.Models;
+using Zen.Logging.Standard.Extensions;
+using Zen.Logging.Standard.Models;
 
 namespace Zen.Logging.Standard.Services
 {

@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
-using Zen.Logging.Models;
+using Zen.Logging.Standard.Models;
 
-namespace Zen.Logging.Services
+namespace Zen.Logging.Standard.Services
 {
     public interface ILoggingQueueService
     {

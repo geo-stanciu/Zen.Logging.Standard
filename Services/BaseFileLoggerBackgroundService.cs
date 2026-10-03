@@ -4,7 +4,7 @@ using System.Globalization;
 using System.IO.Compression;
 using System.Text;
 using System.Threading.Channels;
-using Zen.Logging.Models;
+using Zen.Logging.Standard.Models;
 
 namespace Zen.Logging.Standard.Services
 {

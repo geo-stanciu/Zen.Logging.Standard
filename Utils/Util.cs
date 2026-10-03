@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zen.Logging.Utils;
+namespace Zen.Logging.Standard.Utils;
 
 internal class Util
 {

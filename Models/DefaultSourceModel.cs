@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zen.Logging.Models
+namespace Zen.Logging.Standard.Models
 {
     public class DefaultSourceModel
     {

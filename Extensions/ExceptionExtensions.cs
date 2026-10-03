@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zen.Logging.Extensions
+namespace Zen.Logging.Standard.Extensions
 {
     public static class ExceptionExtensions
     {

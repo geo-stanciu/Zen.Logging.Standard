@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Zen.Logging.Models;
+using Zen.Logging.Standard.Models;
 
 namespace Zen.Logging.Standard.Services
 {
